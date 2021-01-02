@@ -1,0 +1,83 @@
+body {
+    font-family: 'Open-sans', sans-serif;
+}
+
+.container {
+    width: 1000px;
+    height: 550px;
+    background-color: darkcyan;
+    margin: 43px auto;
+    border-radius: 15px;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.30), 0 6px 20px rgba(0, 0, 0, 0.19)
+}
+
+.calculator {
+    width: 320px;
+    height: 520px;
+    background-color: white;
+    margin: auto;
+    top: 15px;
+    position: relative;
+    border-radius: 5px;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19)
+}
+
+h1 {
+    font-family: fantasy;
+    font-weight: normal;
+    color: darkcyan;
+    text-align: center;
+    padding-top: 110px;
+}
+
+p.description {
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkcyan;
+    text-align: center;
+    padding: 0px 25px;
+    margin-bottom: 30px;
+}
+
+p.description a {
+    font-weight: bold;
+    color: darkcyan;
+    text-decoration: none;
+}
+
+a.calculator1 {
+    width: 110px;
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    background-color: darkcyan;
+    padding: 15px;
+}
+
+a.calculator2 {
+    text-align: center;
+    width: 110px;
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    background-color: darkcyan;
+    padding: 15px;
+}
+
+p.about {
+    width: 150px;
+    margin-left: 100px;
+    margin-top: 200px;
+    font-size: 10px;
+    color: darkcyan;
+}
+
+p.about a {
+    color: darkcyan;
+    text-decoration: none;
+    font-weight: bold;
+}
