@@ -11,6 +11,18 @@ body {
     box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.30), 0 6px 20px rgba(0, 0, 0, 0.19)
 }
 
+a.home {
+    margin-top: 250px;
+    text-align: center;
+    font-size: 14px;
+    float: right;
+    padding: 10px;
+    color: darkcyan;
+    background-color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 .calculator {
     width: 320px;
     height: 520px;
